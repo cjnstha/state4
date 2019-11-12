@@ -1,0 +1,5 @@
+[21-Jul-2017 11:48:32 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/nhamme5/public_html/sfcgdbms/storage/framework/views/3baf8224bbac125f290c6c5662dd130d13868b99.php on line 40
+[21-Jul-2017 11:51:14 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/nhamme5/public_html/sfcgdbms/storage/framework/views/3baf8224bbac125f290c6c5662dd130d13868b99.php on line 40
+[21-Jul-2017 11:51:40 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/nhamme5/public_html/sfcgdbms/storage/framework/views/3baf8224bbac125f290c6c5662dd130d13868b99.php on line 40
+[21-Jul-2017 11:54:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nhamme5/public_html/sfcgdbms/storage/framework/views/3baf8224bbac125f290c6c5662dd130d13868b99.php on line 42
+[19-Sep-2017 11:49:15 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/nhamme5/public_html/sfcgdbms/routes/web.php on line 93
